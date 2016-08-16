@@ -39,9 +39,9 @@
         <entry file="file://$PROJECT_DIR$/src/TableComponent.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="366">
-              <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+              <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
               <folding>
-                <marker date="1471319242000" expanded="true" signature="809:899" ph="..." />
+                <marker date="1471320412000" expanded="true" signature="805:895" ph="..." />
               </folding>
             </state>
           </provider>
@@ -205,12 +205,12 @@
       <option name="presentableId" value="Default" />
       <updated>1471318123334</updated>
       <workItem from="1471318124549" duration="27000" />
-      <workItem from="1471318164862" duration="1140000" />
+      <workItem from="1471318164862" duration="1356000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1167000" />
+    <option name="totallyTimeSpent" value="1383000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1436" height="877" extended-state="6" />
@@ -274,9 +274,9 @@
     <entry file="file://$PROJECT_DIR$/src/TableComponent.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="366">
-          <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+          <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
           <folding>
-            <marker date="1471319242000" expanded="true" signature="809:899" ph="..." />
+            <marker date="1471320412000" expanded="true" signature="805:895" ph="..." />
           </folding>
         </state>
       </provider>
